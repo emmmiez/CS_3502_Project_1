@@ -1,0 +1,14 @@
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/bin/Debug/net8.0/CS_3502_Project_1_B
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/bin/Debug/net8.0/CS_3502_Project_1_B.deps.json
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/bin/Debug/net8.0/CS_3502_Project_1_B.runtimeconfig.json
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/bin/Debug/net8.0/CS_3502_Project_1_B.dll
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/bin/Debug/net8.0/CS_3502_Project_1_B.pdb
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.GeneratedMSBuildEditorConfig.editorconfig
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.AssemblyInfoInputs.cache
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.AssemblyInfo.cs
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.csproj.CoreCompileInputs.cache
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.dll
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/refint/CS_3502_Project_1_B.dll
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.pdb
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/CS_3502_Project_1_B.genruntimeconfig.cache
+/home/edietz4/Desktop/CS_3502_Project_1_B/CS_3502_Project_1_B/obj/Debug/net8.0/ref/CS_3502_Project_1_B.dll
