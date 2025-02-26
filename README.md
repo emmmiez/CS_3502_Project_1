@@ -39,6 +39,5 @@ This project consists of two major components:
 - **Multi-Threaded Banking Simulation:** Uses mutex locks to prevent concurrency issues and race conditions such as deadlocks or priority inversion, and supports stress testing under high loads.
 - **IPC Producer-Consumer Model:** Uses NamedPipeServerStream and NamedPipeClientStream for inter-process communication.
 - **Error-Handling:** Both the banking simulation and producer-consumer programs gracefully handle errors including deadlocks and broken pipes by detecting issues and displaying relevant error messages.
-- **Performance Considerations:** The IPC implementation was tested for latency, with results ranging from 0.2 ms to 11.7 ms per transmission.
 
 For further details and notes, refer to the in-line comments contained in the project source code explaining synchronization and inter-process communication mechanisms. 
