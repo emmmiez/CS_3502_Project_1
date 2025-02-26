@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/edietz4/Desktop/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2.csproj": {}
+  },
+  "projects": {
+    "/home/edietz4/Desktop/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edietz4/Desktop/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2.csproj",
+        "projectName": "CS_3502_Project_1_B.2",
+        "projectPath": "/home/edietz4/Desktop/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2.csproj",
+        "packagesPath": "/home/edietz4/.nuget/packages/",
+        "outputPath": "/home/edietz4/Desktop/CS_3502_Project_1_B.2/CS_3502_Project_1_B.2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/edietz4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
